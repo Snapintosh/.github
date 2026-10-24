@@ -1,0 +1,10 @@
+{
+  "name": "snapintosh-organization-profile",
+  "private": true,
+  "scripts": {
+    "verify": "node scripts/verify-profile.cjs"
+  },
+  "devDependencies": {
+    "playwright": "1.62.1"
+  }
+}
