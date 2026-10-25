@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.gg/GjMXm3NaPe"><strong>Join the Discord community →</strong></a> &nbsp; · &nbsp;
+  <a href="https://discord.gg/GjMXm3NaPe"><strong>Join Armintosh on Discord →</strong></a> &nbsp; · &nbsp;
   <a href="https://www.reddit.com/r/armintosh/">r/armintosh</a> &nbsp; · &nbsp;
   <a href="https://www.reddit.com/r/snapintosh/">r/snapintosh</a>
 </p>
@@ -96,7 +96,7 @@ Bring reproducible reports, clear hardware and build details, and logs that expl
 
 ### Join the community
 
-[**Snapintosh · Armintosh on Discord**](https://discord.gg/GjMXm3NaPe) is the community space for Snapdragon development, macOS and XNU research across other ARM platforms, hardware discussion, and reproducible technical help. Start in **#welcome**, read **#rules**, and find the channel for your project.
+[**Armintosh on Discord**](https://discord.gg/GjMXm3NaPe) is our shared community for macOS, iOS, and XNU research on ARM, hardware discussion, and reproducible technical help. Start in **#welcome** and read **#rules**. For Snapintosh questions, use **#snapintosh-support**; related project discussions have their own **#unixnu-dev** and **#hackios-dev** channels.
 
 Share longer updates and discussions on [r/armintosh](https://www.reddit.com/r/armintosh/) for broader ARM research and [r/snapintosh](https://www.reddit.com/r/snapintosh/) for Snapdragon projects. Keep actionable bugs and contributions in the relevant GitHub repository so the work remains easy to track.
 
